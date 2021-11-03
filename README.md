@@ -1,4 +1,4 @@
-# AMS548
+# AMS548(C language)
 
 Task 1
 
